@@ -1,4 +1,4 @@
-This project is for understand the How to use Router in react application.
+This project is for understand the How to create Child Routers under the main router in react application .
 ## Table of Contents
 
 - [React Router V4](#react-router-v4)
@@ -11,7 +11,7 @@ This project is for understand the How to use Router in react application.
 - [Supported Browsers](#supported-browsers)
 
 ## React Router v4
-   This will demostrate the use of Route, BrowserRouter, Switch, Link in React application. By using this we can make routing in react web application
+   This will demostrate the use of Route, BrowserRouter, Switch, Link in React application. By using this we can make routing in react web application with Child Routers as well.
 
 ## Folder Structure
 
